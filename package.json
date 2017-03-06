@@ -1,0 +1,23 @@
+{
+  "name": "commandline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaiHovanky/CL-Tic-Tac-Toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaiHovanky/CL-Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/TaiHovanky/CL-Tic-Tac-Toe#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "prompt": "^1.0.0"
+  }
+}
